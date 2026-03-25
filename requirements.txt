@@ -1,0 +1,8 @@
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+lightgbm>=4.3.0
+category-encoders>=2.6.0
+sentence-transformers>=2.7.0
+ipykernel>=6.29.0
