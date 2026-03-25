@@ -1,8 +1,0 @@
-# Virtual environments
-venv/
-.venv/
-env/
-ENV/
-
-# Python environment files
-.python-version
