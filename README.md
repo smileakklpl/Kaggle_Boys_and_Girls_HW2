@@ -1,4 +1,4 @@
-# Kaggle Boys and Girls HW2 Project
+# Kaggle Boys and Girls Competition
 
 本專案旨在預測 Kaggle 競賽中的性別標籤。本版本以 `ensemble_ultimate_v4.ipynb` 為最終實作版本。
 
